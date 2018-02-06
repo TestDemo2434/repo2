@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Servlet Demo</h1>
+<h1>Servlet Demo example</h1>
 <br/>
 <h3>Get Method</h3>
 <a href="<%=request.getContextPath()%>/ServletDemo"> Get Method </a>
